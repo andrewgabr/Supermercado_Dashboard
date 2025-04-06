@@ -2,7 +2,7 @@
 
 <!-- Substitua o caminho abaixo pelo seu GIF -->
 <p align="center">
-  <img src="assets/supermercado-demo.gif" alt="Demonstração do Dashboard" />
+  <img src="https://github.com/andrewgabr/Supermercado_Dashboard/blob/master/assets/Gif_Power_BI.gif?raw=true" alt="Demonstração do Dashboard" />
 </p>
 
 Este projeto apresenta um painel interativo desenvolvido no **Power BI** para análise do **faturamento de um supermercado**, com foco em gerar insights estratégicos de forma clara e visual.
@@ -39,15 +39,5 @@ Este projeto apresenta um painel interativo desenvolvido no **Power BI** para an
 - DAX para medidas e cálculos
 - Power Query para tratamento dos dados
 
----
 
-## 🚀 Como abrir o projeto
-
-1. Baixe o arquivo `.pbix` contido neste repositório
-2. Abra com o [Power BI Desktop](https://powerbi.microsoft.com/)
-3. Explore o painel e interaja com os filtros
-
----
-
-## 📁 Estrutura do Repositório
 
