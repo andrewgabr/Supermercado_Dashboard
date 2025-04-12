@@ -2,7 +2,7 @@
 
 <!-- Substitua o caminho abaixo pelo seu GIF -->
 <p align="center">
-  <img src="https://github.com/andrewgabr/Supermercado_Dashboard/blob/master/assets/Gif_Power_BI.gif?raw=true" alt="Demonstração do Dashboard" />
+  <img src="https://github.com/andrewgabr/Supermercado_Dashboard/blob/master/assets/gif.gif?raw=true" />
 </p>
 
 Este projeto apresenta um painel interativo desenvolvido no **Power BI** para análise do **faturamento de um supermercado**, com foco em gerar insights estratégicos de forma clara e visual.
